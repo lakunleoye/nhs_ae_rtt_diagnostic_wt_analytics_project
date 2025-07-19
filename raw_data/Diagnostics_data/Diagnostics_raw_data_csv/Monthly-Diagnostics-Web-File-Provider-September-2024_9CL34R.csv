@@ -1,0 +1,432 @@
+﻿Regional Team Code,Regional Team Name,Provider Code,Provider Name, Total Waiting List , Number waiting 6+ Weeks , Number waiting 13+ Weeks , Percentage waiting 6+ weeks , 0 <01 weeks , 01 <02 weeks , 02 <03 weeks , 03 <04 weeks , 04 <05 weeks , 05 <06 weeks , 06 <07 weeks , 07 <08 weeks , 08 <09 weeks , 09 <10 weeks , 10 <11 weeks , 11 <12 weeks , 12 <13 weeks , 13+ weeks ,, Planned tests / procedures , Unscheduled tests / procedures , Waiting list tests / procedures (excluding planned) 
+Y56,London Commissioning Region,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust","11,077",471,83,4.30%,"3,209","2,634","1,863","1,595",935,370,169,123,43,24,12,10,7,83,,"1,595","4,223","20,806"
+Y56,London Commissioning Region,R1H,Barts Health NHS Trust,"35,241","8,380","3,345",23.80%,"6,736","5,650","4,661","4,090","3,332","2,392","1,008",887,830,786,548,563,413,"3,345",,"6,030","12,226","23,664"
+Y56,London Commissioning Region,ADW,Beehive Solutions Ltd,162,0,0,0.00%,22,24,31,26,29,30,0,0,0,0,0,0,0,0,,"1,803",0,10
+Y56,London Commissioning Region,NT405,Bishops Wood Hospital,51,4,1,7.80%,15,11,13,6,1,1,2,1,0,0,0,0,0,1,,0,0,152
+Y56,London Commissioning Region,NT406,Blackheath Hospital,93,5,0,5.40%,44,22,7,6,4,5,1,2,2,0,0,0,0,0,,0,0,153
+Y56,London Commissioning Region,NQV,Bromley Healthcare,124,3,0,2.40%,22,22,31,15,12,19,1,0,1,0,1,0,0,0,,66,0,94
+Y56,London Commissioning Region,NT451,Cavell Hospital,35,1,0,2.90%,19,10,2,1,2,0,0,1,0,0,0,0,0,0,,0,0,141
+Y56,London Commissioning Region,RV3,Central and North West London NHS Foundation Trust,64,0,0,0.00%,22,20,9,9,2,2,0,0,0,0,0,0,0,0,,0,0,126
+Y56,London Commissioning Region,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,"10,793","1,295",509,12.00%,"2,987","2,017","1,613","1,477",865,539,203,128,112,107,89,82,65,509,,"1,645","4,953","15,030"
+Y56,London Commissioning Region,NT409,Chelsfield Park Hospital,46,0,0,0.00%,17,13,14,1,1,0,0,0,0,0,0,0,0,0,,0,0,93
+Y56,London Commissioning Region,NT411,Clementine Churchill Hospital,129,2,0,1.60%,66,32,12,10,5,2,0,2,0,0,0,0,0,0,,0,0,439
+Y56,London Commissioning Region,RJ6,Croydon Health Services NHS Trust,"12,046","2,088",588,17.30%,"3,322","2,168","1,606","1,308","1,033",521,395,335,215,236,112,104,103,588,,826,"3,199","11,176"
+Y56,London Commissioning Region,RVR,Epsom and St Helier University Hospitals NHS Trust,"10,411",807,176,7.80%,"2,542","2,004","1,774","1,579","1,290",415,166,114,126,108,65,39,13,176,,"1,096","4,125","12,008"
+Y56,London Commissioning Region,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,"2,013",514,214,25.50%,403,356,253,204,164,119,74,50,37,45,43,28,23,214,,"1,976","1,150","1,778"
+Y56,London Commissioning Region,RJ1,Guy's and St Thomas' NHS Foundation Trust,"32,771","15,477","6,185",47.20%,"4,570","3,356","3,086","2,685","2,129","1,468","1,661","1,498","1,517","1,346","1,103","1,094","1,073","6,185",,"6,238","4,512","22,792"
+Y56,London Commissioning Region,NT416,Hendon Hospital,42,0,0,0.00%,22,6,9,1,2,2,0,0,0,0,0,0,0,0,,0,0,114
+Y56,London Commissioning Region,RQX,Homerton Healthcare NHS Foundation Trust,"10,435",941,91,9.00%,"2,552","2,024","1,742","1,564","1,001",611,304,246,179,47,32,27,15,91,,370,"2,596","10,272"
+Y56,London Commissioning Region,RY9,Hounslow and Richmond Community Healthcare NHS Trust,28,0,0,0.00%,17,8,2,1,0,0,0,0,0,0,0,0,0,0,,0,0,54
+Y56,London Commissioning Region,RYJ,Imperial College Healthcare NHS Trust,"20,010","3,700","1,384",18.50%,"3,999","3,718","3,061","2,381","1,766","1,385",410,466,389,307,295,222,227,"1,384",,"3,240","7,842","19,282"
+Y56,London Commissioning Region,RJZ,King's College Hospital NHS Foundation Trust,"28,264","13,028","6,051",46.10%,"4,754","2,765","2,546","2,155","1,716","1,300","1,277","1,150","1,122","1,002",804,883,739,"6,051",,890,"8,030","20,483"
+Y56,London Commissioning Region,NT421,Kings Oak Hospital,44,6,0,13.60%,17,4,4,4,3,6,0,0,1,3,1,0,1,0,,0,0,72
+Y56,London Commissioning Region,RAX,Kingston Hospital NHS Foundation Trust,"9,343","1,943",177,20.80%,"2,020","1,616","1,476",990,788,510,457,421,323,270,128,115,52,177,,"2,542","5,893","5,535"
+Y56,London Commissioning Region,RJ2,Lewisham and Greenwich NHS Trust,"11,284",357,50,3.20%,"2,036","2,683","2,422","1,730","1,440",616,180,61,22,20,10,8,6,50,,722,"5,981","11,410"
+Y56,London Commissioning Region,NT422,London Independent Hospital,293,5,1,1.70%,133,55,37,19,31,13,0,2,1,1,0,0,0,1,,0,0,675
+Y56,London Commissioning Region,R1K,London North West University Healthcare NHS Trust,"20,786","5,720","1,527",27.50%,"4,150","3,317","2,478","2,108","1,798","1,215","1,061",848,716,515,429,322,302,"1,527",,"1,148","5,951","11,119"
+Y56,London Commissioning Region,RP6,Moorfields Eye Hospital NHS Foundation Trust,165,0,0,0.00%,53,33,31,28,13,7,0,0,0,0,0,0,0,0,,2,0,878
+Y56,London Commissioning Region,RAT,North East London NHS Foundation Trust,742,553,257,74.50%,34,39,40,30,26,20,34,34,41,69,40,36,42,257,,59,0,181
+Y56,London Commissioning Region,RAP,North Middlesex University Hospital NHS Trust,"5,687",199,11,3.50%,"2,743",914,779,464,334,254,87,40,33,17,4,5,2,11,,351,"4,124","5,677"
+Y56,London Commissioning Region,RPG,Oxleas NHS Foundation Trust,147,126,42,85.70%,5,3,5,4,4,0,0,4,9,15,14,19,23,42,,92,0,52
+Y56,London Commissioning Region,NTP15,Practice Plus Group Hospital - Ilford,70,13,0,18.60%,5,9,22,11,3,7,2,10,0,0,1,0,0,0,,0,0,664
+Y56,London Commissioning Region,RAL,Royal Free London NHS Foundation Trust,"20,850","1,828",355,8.80%,"5,731","4,204","3,449","2,908","1,814",916,421,228,233,151,154,149,137,355,,"3,438","6,683","20,102"
+Y56,London Commissioning Region,RAN,Royal National Orthopaedic Hospital NHS Trust,"1,957",136,10,6.90%,448,488,279,266,176,164,17,19,26,30,17,9,8,10,,342,0,"2,005"
+Y56,London Commissioning Region,NT436,Shirley Oaks Hospital,72,1,1,1.40%,27,19,11,6,7,1,0,0,0,0,0,0,0,1,,0,0,211
+Y56,London Commissioning Region,NT437,Sloane Hospital,44,2,0,4.50%,23,9,5,3,2,0,1,0,0,1,0,0,0,0,,0,0,131
+Y56,London Commissioning Region,Y8L9S,Spamedica Bromley,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,33
+Y56,London Commissioning Region,V8N5R,Spamedica Dalston,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,9
+Y56,London Commissioning Region,B4N1U,Spamedica Romford,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,39
+Y56,London Commissioning Region,NT314,Spire London East,179,13,1,7.30%,77,7,35,18,19,10,4,3,2,0,3,0,0,1,,0,0,163
+Y56,London Commissioning Region,NT3X3,Spire St Anthony's Hospital,100,4,4,4.00%,47,18,10,12,1,8,0,0,0,0,0,0,0,4,,0,0,139
+Y56,London Commissioning Region,RJ7,St George's University Hospitals NHS Foundation Trust,"11,849",456,41,3.80%,"3,078","2,755","1,989","1,758","1,117",696,135,121,113,11,22,10,3,41,,"1,342","5,148","13,770"
+Y56,London Commissioning Region,DK6,Surgimed Healthcare Ltd,763,0,0,0.00%,240,159,162,93,54,55,0,0,0,0,0,0,0,0,,2,0,711
+Y56,London Commissioning Region,RAS,The Hillingdon Hospitals NHS Foundation Trust,"7,130",590,14,8.30%,"1,875","1,480","1,105",956,558,566,268,125,80,32,27,35,9,14,,277,"2,927","6,637"
+Y56,London Commissioning Region,RPY,The Royal Marsden NHS Foundation Trust,807,30,7,3.70%,405,162,85,67,39,19,8,3,1,5,3,1,2,7,,"3,431","1,352","2,026"
+Y56,London Commissioning Region,RRV,University College London Hospitals NHS Foundation Trust,"9,547",657,66,6.90%,"2,811","2,054","1,463","1,159",916,487,193,146,88,65,60,20,19,66,,"4,255","4,144","14,029"
+Y56,London Commissioning Region,RKL,West London NHS Trust,302,1,0,0.30%,166,55,55,18,6,1,1,0,0,0,0,0,0,0,,224,0,0
+Y56,London Commissioning Region,RKE,Whittington Health NHS Trust,"6,091",312,53,5.10%,"1,746","1,417",995,830,524,267,53,62,27,45,27,30,15,53,,"3,441","4,112","4,850"
+Y56,London Commissioning Region,NNV,Your Healthcare,2,0,0,0.00%,2,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,2,0
+Y58,South West Commissioning Region,NT402,Bath Clinic,20,0,0,0.00%,12,2,5,1,0,0,0,0,0,0,0,0,0,0,,0,0,47
+Y58,South West Commissioning Region,NX0,Chime Social Enterprise,"5,090","3,337","1,614",65.60%,292,362,272,262,310,255,248,244,249,227,270,235,250,"1,614",,849,0,0
+Y58,South West Commissioning Region,AC7,Cobalt Health,298,5,0,1.70%,131,90,55,10,4,3,3,1,1,0,0,0,0,0,,0,446,0
+Y58,South West Commissioning Region,RJ8,Cornwall Partnership NHS Foundation Trust,87,50,38,57.50%,1,2,12,12,4,6,3,5,0,0,4,0,0,38,,0,0,19
+Y58,South West Commissioning Region,RBD,Dorset County Hospital NHS Foundation Trust,"4,893","1,141",488,23.30%,"1,231",900,652,456,365,148,149,113,118,90,72,60,51,488,,"1,347","1,827","6,865"
+Y58,South West Commissioning Region,RDY,Dorset Healthcare University NHS Foundation Trust,"1,370",188,7,13.70%,197,329,249,207,125,75,95,39,24,8,10,0,5,7,,0,0,959
+Y58,South West Commissioning Region,NVC04,Duchy Hospital,40,6,0,15.00%,1,7,6,11,8,1,2,0,0,2,1,1,0,0,,0,0,57
+Y58,South West Commissioning Region,NGL,Echogenicity Limited,"1,090",18,0,1.70%,32,104,220,398,249,69,12,3,2,1,0,0,0,0,,0,0,630
+Y58,South West Commissioning Region,NCL01,Express Diagnostics (Derriford),58,0,0,0.00%,58,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,206
+Y58,South West Commissioning Region,RTE,Gloucestershire Hospitals NHS Foundation Trust,"12,083","2,176",640,18.00%,"2,845","2,445","1,799","1,275",988,555,380,250,240,295,122,96,153,640,,"2,173","5,826","10,886"
+Y58,South West Commissioning Region,RN3,Great Western Hospitals NHS Foundation Trust,"6,907","1,362",415,19.70%,"1,887","1,254",844,622,650,288,231,185,211,117,95,64,44,415,,"1,564","1,408","9,214"
+Y58,South West Commissioning Region,NT419,Harbour Hospital,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,7
+Y58,South West Commissioning Region,NXP,Independent Health Group,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,6
+Y58,South West Commissioning Region,NEF,Korus Health,"2,103",3,0,0.10%,674,644,477,222,67,16,3,0,0,0,0,0,0,0,,"3,930",0,0
+Y58,South West Commissioning Region,NVC08,Mount Stuart Hospital,57,30,0,52.60%,0,0,13,11,1,2,9,7,7,0,1,2,4,0,,1,0,124
+Y58,South West Commissioning Region,NVC09,New Hall Hospital,52,15,1,28.80%,13,13,1,6,2,2,3,3,2,2,3,0,1,1,,2,0,293
+Y58,South West Commissioning Region,RVJ,North Bristol NHS Trust,"9,852",80,0,0.80%,"2,939","2,393","1,780","1,337",941,382,38,19,19,2,2,0,0,0,,"2,531","3,197","19,219"
+Y58,South West Commissioning Region,NT202,"Nuffield Health, Bournemouth Hospital",5,0,0,0.00%,3,1,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,23
+Y58,South West Commissioning Region,NT206,"Nuffield Health, Bristol Hospital (Chesterfield)",34,4,0,11.80%,10,11,4,3,1,1,1,2,0,1,0,0,0,0,,0,0,34
+Y58,South West Commissioning Region,NT238,"Nuffield Health, Taunton Hospital",2,0,0,0.00%,2,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,2
+Y58,South West Commissioning Region,NTPH2,Practice Plus Group Hospital - Emersons Green,508,91,13,17.90%,31,86,109,108,50,33,19,11,11,6,14,6,11,13,,0,0,681
+Y58,South West Commissioning Region,NTPH5,Practice Plus Group Hospital - Plymouth,91,23,10,25.30%,0,6,33,15,12,2,0,3,1,4,0,3,2,10,,0,0,218
+Y58,South West Commissioning Region,NTPH1,Practice Plus Group Hospital - Shepton Mallet,536,110,24,20.50%,113,109,96,42,38,28,36,18,12,8,2,7,3,24,,0,0,500
+Y58,South West Commissioning Region,NTPH3,Practice Plus Group Surgical Centre - Devizes,411,83,3,20.20%,39,49,74,77,49,40,20,19,8,13,9,5,6,3,,0,0,242
+Y58,South West Commissioning Region,NT430,Ridgeway Hospital,9,0,0,0.00%,4,3,1,0,0,1,0,0,0,0,0,0,0,0,,0,0,35
+Y58,South West Commissioning Region,REF,Royal Cornwall Hospitals NHS Trust,"10,303","1,731",229,16.80%,"2,181","1,902","1,479","1,340",994,676,420,344,203,232,130,91,82,229,,"1,960","3,920","10,049"
+Y58,South West Commissioning Region,RH8,Royal Devon University Healthcare NHS Foundation Trust,"17,033","6,746","2,416",39.60%,"2,601","2,367","1,880","1,450","1,136",853,797,834,763,597,576,431,332,"2,416",,"2,570","3,753","13,161"
+Y58,South West Commissioning Region,RD1,Royal United Hospitals Bath NHS Foundation Trust,"12,256","5,213","2,014",42.50%,"1,813","1,576","1,259","1,031",699,665,550,541,496,432,404,413,363,"2,014",,"1,973","3,061","7,911"
+Y58,South West Commissioning Region,RNZ,Salisbury NHS Foundation Trust,"4,256",642,310,15.10%,"1,185","1,030",607,395,220,177,74,41,39,61,35,55,27,310,,"1,467",819,"6,935"
+Y58,South West Commissioning Region,RH5,Somerset NHS Foundation Trust,"10,162","2,051",447,20.20%,"2,757","1,760","1,325","1,021",746,502,394,282,295,182,200,113,138,447,,"1,553","5,490","11,636"
+Y58,South West Commissioning Region,P1B7M,Spamedica Bristol,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,12
+Y58,South West Commissioning Region,M5E1S,Spamedica Exeter,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,34
+Y58,South West Commissioning Region,A0C5S,Spamedica Gloucester,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,20
+Y58,South West Commissioning Region,L6O7H,Spamedica Poole,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,31
+Y58,South West Commissioning Region,E3D4A,Spamedica Truro,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,5
+Y58,South West Commissioning Region,NT302,Spire Bristol Hospital,25,0,0,0.00%,17,3,2,2,1,0,0,0,0,0,0,0,0,0,,0,0,13
+Y58,South West Commissioning Region,NQT5K,St Martins Hospital,418,213,78,51.00%,45,34,28,28,37,33,23,19,28,18,13,21,13,78,,358,0,309
+Y58,South West Commissioning Region,G3Z1Q,Sulis Hospital Bath (Foxcote Avenue),166,3,0,1.80%,92,35,33,1,2,0,0,0,3,0,0,0,0,0,,0,0,220
+Y58,South West Commissioning Region,AAH,Tetbury Hospital Trust Ltd,5,4,1,80.00%,0,0,0,1,0,0,0,3,0,0,0,0,0,1,,1,0,0
+Y58,South West Commissioning Region,NFC01,The Outside Clinic HQ,"2,057",764,419,37.10%,480,321,228,128,97,39,38,43,41,60,64,63,36,419,,0,0,"1,130"
+Y58,South West Commissioning Region,RA9,Torbay and South Devon NHS Foundation Trust,"7,136","1,995",549,28.00%,"1,662","1,202",750,799,325,403,343,277,194,203,147,167,115,549,,760,"2,528","5,098"
+Y58,South West Commissioning Region,DTM,Ultracardiac Ltd,479,135,14,28.20%,18,81,50,128,21,46,0,56,13,19,12,10,11,14,,0,0,372
+Y58,South West Commissioning Region,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,"15,058","2,514",432,16.70%,"4,221","2,509","1,988","1,662","1,417",747,644,473,352,170,174,183,86,432,,"2,512","3,914","16,868"
+Y58,South West Commissioning Region,R0D,University Hospitals Dorset NHS Foundation Trust,"11,905","1,571",191,13.20%,"3,200","2,547","1,838","1,344",878,527,452,207,198,161,153,107,102,191,,"2,542","5,058","13,418"
+Y58,South West Commissioning Region,RK9,University Hospitals Plymouth NHS Trust,"10,934","2,589",849,23.70%,"2,899","1,722","1,306","1,205",761,452,384,297,280,249,229,160,141,849,,"1,958","3,578","13,116"
+Y58,South West Commissioning Region,AXG,Wiltshire Health & Care,207,56,2,27.10%,47,23,25,30,13,13,16,12,19,2,3,2,0,2,,5,0,99
+Y58,South West Commissioning Region,NVC22,Winfield Hospital,71,11,1,15.50%,0,21,29,8,1,1,2,4,0,2,2,0,0,1,,0,0,132
+Y58,South West Commissioning Region,NT443,Winterbourne Hospital,8,0,0,0.00%,4,2,2,0,0,0,0,0,0,0,0,0,0,0,,0,0,21
+Y59,South East Commissioning Region,NWT,Action For Deafness,779,0,0,0.00%,181,128,111,161,141,57,0,0,0,0,0,0,0,0,,0,0,520
+Y59,South East Commissioning Region,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,"7,573",249,44,3.30%,"2,286","1,858","1,424",889,601,266,86,45,17,26,16,6,9,44,,339,"4,127","11,594"
+Y59,South East Commissioning Region,NVC01,Ashtead Hospital,59,23,1,39.00%,6,9,6,10,3,2,4,3,7,5,1,0,2,1,,57,0,78
+Y59,South East Commissioning Region,NWF01,Benenden Hospital,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,351,0,0
+Y59,South East Commissioning Region,RWX,Berkshire Healthcare NHS Foundation Trust,377,6,0,1.60%,68,169,49,13,66,6,1,0,0,0,3,2,0,0,,281,149,0
+Y59,South East Commissioning Region,DN4,Berkshire West Community Endoscopy Service,78,0,0,0.00%,41,19,7,9,1,1,0,0,0,0,0,0,0,0,,12,0,148
+Y59,South East Commissioning Region,RXQ,Buckinghamshire Healthcare NHS Trust,"6,293","1,050",501,16.70%,"1,855","1,148",974,695,313,258,148,93,89,72,69,42,36,501,,"4,925","6,370",913
+Y59,South East Commissioning Region,G82094,Charing Surgery,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,117,0,0
+Y59,South East Commissioning Region,NT408,Chaucer Hospital,21,3,0,14.30%,3,5,3,5,2,0,1,0,0,1,1,0,0,0,,0,0,381
+Y59,South East Commissioning Region,NT410,Chiltern Hospital,13,0,0,0.00%,7,5,1,0,0,0,0,0,0,0,0,0,0,0,,0,0,43
+Y59,South East Commissioning Region,F9Z4V,Circle Reading Hospital,66,0,0,0.00%,29,20,3,1,12,1,0,0,0,0,0,0,0,0,,0,0,135
+Y59,South East Commissioning Region,RN7,Dartford and Gravesham NHS Trust,"5,281",92,56,1.70%,"2,185","1,438",816,484,209,57,3,9,2,6,4,5,7,56,,"3,425","1,235","10,331"
+Y59,South East Commissioning Region,NGD01,Diagnostic Ultrasound Services,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,"1,581"
+Y59,South East Commissioning Region,NNE,Dorking Healthcare Limited (DHC),639,9,0,1.40%,221,147,131,82,26,23,2,2,4,0,1,0,0,0,,71,0,831
+Y59,South East Commissioning Region,RVV,East Kent Hospitals University NHS Foundation Trust,"21,234","6,693","1,979",31.50%,"3,587","3,462","2,878","2,001","1,425","1,188","1,130","1,005","1,021",729,348,272,209,"1,979",,0,0,"22,336"
+Y59,South East Commissioning Region,RXC,East Sussex Healthcare NHS Trust,"7,111",935,132,13.10%,"2,240","1,577","1,053",640,436,230,159,184,142,160,110,20,28,132,,"1,510","3,827","11,110"
+Y59,South East Commissioning Region,NRK,Eastbourne Healthcare Partnership,149,0,0,0.00%,93,38,10,6,2,0,0,0,0,0,0,0,0,0,,0,0,728
+Y59,South East Commissioning Region,NVM,Epsomedical Group,285,4,0,1.40%,90,83,49,31,23,5,1,2,0,1,0,0,0,0,,93,11,356
+Y59,South East Commissioning Region,NDJ,First Community Health and Care CIC,561,299,109,53.30%,29,53,46,57,52,25,28,38,35,23,19,24,23,109,,362,0,0
+Y59,South East Commissioning Region,RDU,Frimley Health NHS Foundation Trust,"12,794","1,574",567,12.30%,"3,942","2,957","2,191","1,204",641,285,256,183,183,167,78,71,69,567,,874,"3,890","16,909"
+Y59,South East Commissioning Region,NT417,Goring Hall Hospital,31,2,1,6.50%,11,9,2,2,2,3,0,0,1,0,0,0,0,1,,0,0,127
+Y59,South East Commissioning Region,ATK,GP Health Partners Ltd,135,9,1,6.70%,48,22,26,12,14,4,5,0,2,0,1,0,0,1,,0,0,136
+Y59,South East Commissioning Region,NT418,Hampshire Clinic,29,0,0,0.00%,15,10,2,1,0,1,0,0,0,0,0,0,0,0,,0,0,113
+Y59,South East Commissioning Region,RN5,Hampshire Hospitals NHS Foundation Trust,"12,919","3,714",926,28.70%,"2,561","1,978","1,582","1,305","1,025",754,652,560,573,404,243,220,136,926,,"1,478","3,559","9,293"
+Y59,South East Commissioning Region,Y00080,Harbour Medical Practice,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,378,0,0
+Y59,South East Commissioning Region,NYR,Healthshare Diagnostics,"23,213",675,14,2.90%,"8,862","4,522","3,984","2,867","1,389",914,461,127,42,17,4,4,6,14,,0,0,"21,888"
+Y59,South East Commissioning Region,ALH,Hem Clinical Ultrasound Service Limited,78,0,0,0.00%,61,5,12,0,0,0,0,0,0,0,0,0,0,0,,0,0,769
+Y59,South East Commissioning Region,NWX,Here,863,88,11,10.20%,329,200,131,54,31,30,22,19,25,7,2,1,1,11,,0,594,919
+Y59,South East Commissioning Region,NV1,Inhealth Limited,"13,765",431,93,3.10%,"4,632","3,102","2,444","1,776",771,609,160,106,48,10,3,5,6,93,,390,0,"16,373"
+Y59,South East Commissioning Region,NHA,Insidevue Limited,413,122,0,29.50%,0,29,27,74,76,85,87,35,0,0,0,0,0,0,,0,0,"1,029"
+Y59,South East Commissioning Region,R1F,Isle of Wight NHS Trust,"3,077",851,362,27.70%,664,513,391,317,216,125,96,120,56,53,58,47,59,362,,256,885,"3,465"
+Y59,South East Commissioning Region,G82114,Ivy Court Surgery,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,142,0,0
+Y59,South East Commissioning Region,RYY,Kent Community Health NHS Foundation Trust,440,14,0,3.20%,102,90,60,70,64,40,0,4,2,3,5,0,0,0,,487,0,238
+Y59,South East Commissioning Region,ADP02,Kims Hospital (Newnham Court),10,0,0,0.00%,1,3,6,0,0,0,0,0,0,0,0,0,0,0,,0,0,192
+Y59,South East Commissioning Region,G82730,Kingsnorth Medical Practice,67,1,0,1.50%,20,43,3,0,0,0,1,0,0,0,0,0,0,0,,0,0,247
+Y59,South East Commissioning Region,RWF,Maidstone and Tunbridge Wells NHS Trust,"8,221",879,525,10.70%,"3,152","1,619","1,115",708,633,115,31,34,220,26,23,8,12,525,,"1,682","4,214","15,819"
+Y59,South East Commissioning Region,DC8,Medical Imaging Partnership Ltd,"1,072",13,7,1.20%,309,274,303,162,9,2,4,1,0,0,0,1,0,7,,0,"1,291",0
+Y59,South East Commissioning Region,RPA,Medway NHS Foundation Trust,"7,787","2,468","1,702",31.70%,"1,381","1,436",971,826,504,201,229,145,115,77,67,71,62,"1,702",,947,"1,734","8,156"
+Y59,South East Commissioning Region,NTPAA,Mid & South Buckinghamshire Diagnostic NHS Centre,"5,160","2,696",865,52.20%,204,500,531,401,404,424,441,120,180,305,295,260,230,865,,0,0,"2,395"
+Y59,South East Commissioning Region,NT455,Mount Alvernia Hospital,18,1,0,5.60%,13,3,1,0,0,0,1,0,0,0,0,0,0,0,,0,0,390
+Y59,South East Commissioning Region,NEP36,Newton Place Surgery,56,21,10,37.50%,23,3,3,5,1,0,2,0,0,2,2,4,1,10,,0,0,134
+Y59,South East Commissioning Region,NVC11,North Downs Hospital,21,9,2,42.90%,1,3,4,4,0,0,0,4,1,1,1,0,0,2,,2,0,63
+Y59,South East Commissioning Region,NT205,"Nuffield Health, Brighton Hospital",6,0,0,0.00%,2,0,1,3,0,0,0,0,0,0,0,0,0,0,,0,0,28
+Y59,South East Commissioning Region,NT216,"Nuffield Health, Guildford Hospital",1,0,0,0.00%,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+Y59,South East Commissioning Region,NT214,"Nuffield Health, Wessex Hospital",4,0,0,0.00%,3,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+Y59,South East Commissioning Region,RTH,Oxford University Hospitals NHS Foundation Trust,"21,835","5,293","2,981",24.20%,"4,246","3,621","3,077","2,545","1,817","1,236",695,544,412,255,156,160,90,"2,981",,"2,839","8,628","17,135"
+Y59,South East Commissioning Region,H82017,Park Surgery,250,0,0,0.00%,85,150,15,0,0,0,0,0,0,0,0,0,0,0,,0,0,650
+Y59,South East Commissioning Region,RHU,Portsmouth Hospitals University National Health Service Trust,"11,930","4,703","2,763",39.40%,"1,932","1,486","1,370","1,055",826,558,398,322,275,270,222,240,213,"2,763",,"2,231","4,023","10,858"
+Y59,South East Commissioning Region,NTP11,Practice Plus Group Hospital - Southampton,429,92,36,21.40%,10,87,86,77,53,24,15,24,6,3,1,6,1,36,,0,0,552
+Y59,South East Commissioning Region,NTP16,Practice Plus Group Surgical Centre - Gillingham,103,42,8,40.80%,5,2,15,15,10,14,11,3,2,8,3,4,3,8,,0,0,170
+Y59,South East Commissioning Region,NTPAD,Practice Plus Group Surgical Centre - St Marys Portsmouth,829,145,0,17.50%,17,150,131,175,133,78,29,47,23,14,8,13,11,0,,0,0,996
+Y59,South East Commissioning Region,NT428,Princess Margaret Hospital,4,1,0,25.00%,1,1,0,1,0,0,1,0,0,0,0,0,0,0,,0,0,20
+Y59,South East Commissioning Region,RPC,Queen Victoria Hospital NHS Foundation Trust,"1,489",59,1,4.00%,510,350,350,140,54,26,29,10,6,4,2,2,5,1,,78,43,"1,679"
+Y59,South East Commissioning Region,RHW,Royal Berkshire NHS Foundation Trust,"6,958","1,186",789,17.00%,"1,948","1,295","1,067",693,389,380,113,102,69,35,25,32,21,789,,"1,135","3,286","7,269"
+Y59,South East Commissioning Region,RA2,Royal Surrey County Hospital NHS Foundation Trust,"8,250","1,405",308,17.00%,"1,890","1,759","1,341",778,616,461,440,277,195,108,43,24,10,308,,166,"2,417","12,711"
+Y59,South East Commissioning Region,NT431,Runnymede Hospital,14,0,0,0.00%,10,1,3,0,0,0,0,0,0,0,0,0,0,0,,0,0,10
+Y59,South East Commissioning Region,NT433,Sarum Road Hospital,4,0,0,0.00%,1,2,1,0,0,0,0,0,0,0,0,0,0,0,,0,0,98
+Y59,South East Commissioning Region,R1C,Solent NHS Trust,590,157,122,26.60%,103,133,102,47,38,10,6,5,7,6,2,7,2,122,,374,0,206
+Y59,South East Commissioning Region,ALC,South East Ultrasound Ltd,"2,740",0,0,0.00%,389,201,251,"1,213",686,0,0,0,0,0,0,0,0,0,,384,0,0
+Y59,South East Commissioning Region,RW1,Southern Health NHS Foundation Trust,"1,903",18,0,0.90%,671,551,403,176,54,30,3,4,7,2,1,1,0,0,,28,0,"3,484"
+Y59,South East Commissioning Region,D5P5H,Spamedica Bexhill,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,5
+Y59,South East Commissioning Region,I9A4A,Spamedica Brighton,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,8
+Y59,South East Commissioning Region,M7C9Q,Spamedica Epsom,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,11
+Y59,South East Commissioning Region,M0N7E,Spamedica Sittingbourne,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,12
+Y59,South East Commissioning Region,T8R5I,Spamedica Wokingham,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,14
+Y59,South East Commissioning Region,NT312,Spire Alexandra Hospital,159,14,0,8.80%,41,39,33,14,12,6,8,5,0,0,1,0,0,0,,0,0,200
+Y59,South East Commissioning Region,NT345,Spire Clare Park Hospital,22,7,2,31.80%,5,5,3,0,1,1,1,1,2,0,0,1,0,2,,0,0,30
+Y59,South East Commissioning Region,NT344,Spire Dunedin Hospital,22,0,0,0.00%,16,4,0,1,1,0,0,0,0,0,0,0,0,0,,0,0,21
+Y59,South East Commissioning Region,NT308,Spire Gatwick Park Hospital,117,36,21,30.80%,51,15,6,7,1,1,2,2,3,5,1,1,1,21,,0,0,180
+Y59,South East Commissioning Region,NT364,Spire Montefiore Hospital,7,2,0,28.60%,0,0,1,0,4,0,0,2,0,0,0,0,0,0,,0,0,131
+Y59,South East Commissioning Region,NT305,Spire Portsmouth Hospital,10,1,0,10.00%,5,3,0,0,0,1,0,0,0,0,1,0,0,0,,0,0,11
+Y59,South East Commissioning Region,NT304,Spire Southampton Hospital,14,1,1,7.10%,8,1,1,1,2,0,0,0,0,0,0,0,0,1,,0,0,23
+Y59,South East Commissioning Region,NT343,Spire Thames Valley Hospital,5,0,0,0.00%,5,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,26
+Y59,South East Commissioning Region,NT310,Spire Tunbridge Wells Hospital,151,45,19,29.80%,0,0,28,22,23,33,14,3,0,4,2,2,1,19,,0,0,194
+Y59,South East Commissioning Region,RTP,Surrey and Sussex Healthcare NHS Trust,"6,394",824,326,12.90%,"1,640","1,590","1,048",605,398,289,146,68,93,58,54,34,45,326,,"1,394","3,399","8,634"
+Y59,South East Commissioning Region,RDR,Sussex Community NHS Foundation Trust,"1,367",13,0,1.00%,501,332,263,160,65,33,10,2,1,0,0,0,0,0,,0,0,"1,425"
+Y59,South East Commissioning Region,NMC01,Sussex Medical Centre Ltd (Clive Avenue),"1,834",833,19,45.40%,115,244,226,117,121,178,100,177,161,138,62,120,56,19,,0,0,"1,343"
+Y59,South East Commissioning Region,AJX,Sussex MSK Partnership 2,350,73,10,20.90%,107,86,36,24,13,11,10,21,15,6,6,3,2,10,,0,479,0
+Y59,South East Commissioning Region,G82050,Sydenham House Medical Centre,250,0,0,0.00%,0,125,0,125,0,0,0,0,0,0,0,0,0,0,,274,0,0
+Y59,South East Commissioning Region,NVC02,The Berkshire Independent Hospital,335,158,37,47.20%,6,24,43,35,36,33,34,33,20,16,11,2,5,37,,0,0,198
+Y59,South East Commissioning Region,NVC25,The Cherwell Hospital,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,1,0,69
+Y59,South East Commissioning Region,G82020,The Grange Practice,549,76,0,13.80%,87,75,99,67,77,68,76,0,0,0,0,0,0,0,,0,0,328
+Y59,South East Commissioning Region,NXM01,The Horder Centre - St Johns Road,12,2,0,16.70%,5,4,1,0,0,0,1,0,0,0,1,0,0,0,,0,27,0
+Y59,South East Commissioning Region,RHM,University Hospital Southampton NHS Foundation Trust,"8,947","1,138",191,12.70%,"2,148","1,641","1,393","1,126",950,551,199,159,139,178,140,83,49,191,,"2,579","4,545","10,567"
+Y59,South East Commissioning Region,RYR,University Hospitals Sussex NHS Foundation Trust,"20,182","5,698","2,992",28.20%,"5,455","3,270","2,321","1,726","1,122",590,528,470,396,361,332,327,292,"2,992",,"2,421","5,319","29,937"
+Y59,South East Commissioning Region,G82729,White Cliffs Medical Centre,437,0,0,0.00%,0,210,167,60,0,0,0,0,0,0,0,0,0,0,,0,0,589
+Y59,South East Commissioning Region,G82071,Whitstable Medical Practice,180,0,0,0.00%,45,37,29,24,24,21,0,0,0,0,0,0,0,0,,0,0,455
+Y60,Midlands Commissioning Region,NVC0I,Beacon Park Hospital,142,75,18,52.80%,13,7,14,12,6,15,5,10,3,5,21,8,5,18,,0,0,135
+Y60,Midlands Commissioning Region,RQ3,Birmingham Women's and Children's NHS Foundation Trust,"3,423",858,237,25.10%,523,493,464,360,384,341,182,160,111,37,51,50,30,237,,"1,955",352,"2,560"
+Y60,Midlands Commissioning Region,NVC27,Boston West Hospital,133,21,3,15.80%,25,29,24,14,19,1,7,4,3,2,0,2,0,3,,0,0,114
+Y60,Midlands Commissioning Region,RFS,Chesterfield Royal Hospital NHS Foundation Trust,"8,087","2,974","1,323",36.80%,"1,622",939,939,760,476,377,337,230,275,224,230,196,159,"1,323",,"1,169","2,088","8,293"
+Y60,Midlands Commissioning Region,RYG,Coventry and Warwickshire Partnership NHS Trust,141,3,0,2.10%,29,39,23,17,21,9,2,1,0,0,0,0,0,0,,12,0,94
+Y60,Midlands Commissioning Region,NEP,Diagnostic World Ltd,"1,065",23,0,2.20%,353,323,218,100,36,12,8,6,4,3,0,0,2,0,,0,0,"1,412"
+Y60,Midlands Commissioning Region,NT412,Droitwich Spa Hospital,84,4,0,4.80%,22,27,12,13,3,3,3,0,0,0,0,1,0,0,,0,0,208
+Y60,Midlands Commissioning Region,NT445,Edgbaston Hospital,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,11
+Y60,Midlands Commissioning Region,RLT,George Eliot Hospital NHS Trust,"2,679",374,100,14.00%,792,638,436,257,148,34,64,34,39,22,23,36,56,100,,349,"1,953","4,380"
+Y60,Midlands Commissioning Region,K8I4X,Glendon Wood Hospital,181,27,1,14.90%,23,35,21,48,9,18,6,7,1,2,4,3,3,1,,0,0,132
+Y60,Midlands Commissioning Region,RNQ,Kettering General Hospital NHS Foundation Trust,"9,966","2,147",30,21.50%,"1,615","1,882","1,451","1,303",993,575,745,440,255,211,241,132,93,30,,"1,091","1,508","8,976"
+Y60,Midlands Commissioning Region,RT5,Leicestershire Partnership NHS Trust,"2,081","1,730","1,264",83.10%,73,56,72,54,35,61,67,68,59,59,67,77,69,"1,264",,0,0,384
+Y60,Midlands Commissioning Region,DAY,LLR Patient Care Locally,"3,292",311,1,9.40%,568,622,519,465,440,367,175,63,40,21,8,3,0,1,,0,0,"3,026"
+Y60,Midlands Commissioning Region,DXP,Mediservices Healthcare Ltd,90,0,0,0.00%,33,56,1,0,0,0,0,0,0,0,0,0,0,0,,0,0,614
+Y60,Midlands Commissioning Region,NT424,Meriden Hospital,203,16,0,7.90%,42,70,33,28,11,3,14,0,0,1,0,0,1,0,,0,0,173
+Y60,Midlands Commissioning Region,RRE,Midlands Partnership NHS Foundation Trust,684,211,152,30.80%,91,125,89,84,69,15,17,9,9,8,7,5,4,152,,432,0,232
+Y60,Midlands Commissioning Region,RNS,Northampton General Hospital NHS Trust,"7,480",141,7,1.90%,"2,545","1,843","1,264","1,076",535,76,28,48,18,15,8,9,8,7,,774,"3,126","8,670"
+Y60,Midlands Commissioning Region,RX1,Nottingham University Hospitals NHS Trust,"21,380","7,377","1,812",34.50%,"3,853","2,617","2,397","2,080","1,839","1,217","1,273","1,048","1,124",790,545,447,338,"1,812",,"2,538","6,998","11,068"
+Y60,Midlands Commissioning Region,NT213,"Nuffield Health, Derby Hospital",29,0,0,0.00%,12,7,4,2,2,2,0,0,0,0,0,0,0,0,,0,0,24
+Y60,Midlands Commissioning Region,NT219,"Nuffield Health, Hereford Hospital",6,0,0,0.00%,6,0,0,0,0,0,0,0,0,0,0,0,0,0,,9,0,0
+Y60,Midlands Commissioning Region,NT226,"Nuffield Health, Leicester Hospital",40,3,2,7.50%,27,4,2,2,0,2,1,0,0,0,0,0,0,2,,0,0,25
+Y60,Midlands Commissioning Region,NT230,"Nuffield Health, North Staffordshire Hospital",18,0,0,0.00%,12,4,2,0,0,0,0,0,0,0,0,0,0,0,,0,0,85
+Y60,Midlands Commissioning Region,NT235,"Nuffield Health, Shrewsbury Hospital",1,0,0,0.00%,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,2,0,0
+Y60,Midlands Commissioning Region,NT224,"Nuffield Health, Warwickshire Hospital",1,0,0,0.00%,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+Y60,Midlands Commissioning Region,NT242,"Nuffield Health, Wolverhampton Hospital",1,0,0,0.00%,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,17
+Y60,Midlands Commissioning Region,NT427,Park Hospital,46,4,0,8.70%,13,14,5,4,4,2,0,1,0,2,0,1,0,0,,0,0,251
+Y60,Midlands Commissioning Region,NXV,Physiological Measurements Ltd,"6,671",17,1,0.30%,"5,283",832,291,149,73,26,4,6,4,0,0,2,0,1,,"1,979",0,"13,429"
+Y60,Midlands Commissioning Region,NTP13,Practice Plus Group Hospital - Barlborough,57,0,0,0.00%,28,7,7,1,3,11,0,0,0,0,0,0,0,0,,0,0,93
+Y60,Midlands Commissioning Region,NT429,Priory Hospital,79,7,0,8.90%,20,26,4,9,9,4,1,0,1,1,1,3,0,0,,0,0,167
+Y60,Midlands Commissioning Region,NVC17,Rowley Hall Hospital,35,1,0,2.90%,13,0,9,9,3,0,0,1,0,0,0,0,0,0,,0,0,4
+Y60,Midlands Commissioning Region,RXK,Sandwell and West Birmingham Hospitals NHS Trust,"19,266","4,652","1,390",24.10%,"2,973","3,081","2,931","2,337","1,946","1,346",848,639,516,450,312,275,222,"1,390",,212,"4,980","13,687"
+Y60,Midlands Commissioning Region,NXX,Scrivens Ltd,"2,058",0,0,0.00%,897,546,348,130,107,30,0,0,0,0,0,0,0,0,,0,0,"2,058"
+Y60,Midlands Commissioning Region,RK5,Sherwood Forest Hospitals NHS Foundation Trust,"10,806","2,557",386,23.70%,"2,520","1,786","1,402","1,116",830,595,640,446,322,247,213,157,146,386,,"1,154","3,851","10,935"
+Y60,Midlands Commissioning Region,R1D,Shropshire Community Health NHS Trust,412,93,4,22.60%,48,69,67,57,37,41,26,26,16,14,7,0,0,4,,22,2,433
+Y60,Midlands Commissioning Region,RJC,South Warwickshire University NHS Foundation Trust,"8,808","1,423",244,16.20%,"1,995","1,731","1,427","1,089",744,399,299,185,200,221,160,68,46,244,,192,"1,115","10,405"
+Y60,Midlands Commissioning Region,NPG11,Spamedica Birmingham,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,35
+Y60,Midlands Commissioning Region,T4I8V,Spamedica Chesterfield,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,14
+Y60,Midlands Commissioning Region,NPG21,Spamedica Coventry,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,12
+Y60,Midlands Commissioning Region,NPG23,Spamedica Derby,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,18
+Y60,Midlands Commissioning Region,L9D3Z,Spamedica Leicester,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,6
+Y60,Midlands Commissioning Region,G3O5P,Spamedica Newark,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,8
+Y60,Midlands Commissioning Region,NPG15,Spamedica Newcastle-Under-Lyme,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,18
+Y60,Midlands Commissioning Region,J7V1N,Spamedica Solihull,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,16
+Y60,Midlands Commissioning Region,V5F1D,Spamedica Telford,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,28
+Y60,Midlands Commissioning Region,NPG20,Spamedica Wolverhampton,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,32
+Y60,Midlands Commissioning Region,NYN,Specsavers Hearcare Group Ltd,"5,350",265,4,5.00%,"2,807","1,009",567,377,178,147,119,55,36,19,16,13,3,4,,"21,007",0,0
+Y60,Midlands Commissioning Region,NT322,Spire Leicester Hospital,51,16,0,31.40%,10,15,4,2,4,0,3,4,1,3,2,2,1,0,,0,0,55
+Y60,Midlands Commissioning Region,NT321,Spire Little Aston Hospital,52,3,0,5.80%,27,12,3,2,3,2,1,0,1,0,0,1,0,0,,0,0,108
+Y60,Midlands Commissioning Region,NT30A,Spire Nottingham Hospital,27,9,1,33.30%,10,5,2,1,0,0,1,4,1,1,1,0,0,1,,0,0,41
+Y60,Midlands Commissioning Region,NT320,Spire Parkway Hospital,125,16,2,12.80%,51,14,26,10,2,6,6,3,2,2,0,1,0,2,,0,0,143
+Y60,Midlands Commissioning Region,NT301,Spire South Bank Hospital,32,16,12,50.00%,6,6,0,1,1,2,0,2,0,0,1,1,0,12,,0,0,81
+Y60,Midlands Commissioning Region,NVC1H,Stourside Hospital,69,7,1,10.10%,30,13,13,5,1,0,0,4,1,1,0,0,0,1,,0,0,14
+Y60,Midlands Commissioning Region,RNA,The Dudley Group NHS Foundation Trust,"9,119","1,254",132,13.80%,"2,784","1,848","1,357",948,564,364,274,240,216,135,107,96,54,132,,687,"3,880","9,881"
+Y60,Midlands Commissioning Region,NT450,The Lincoln Private Hospital,50,3,0,6.00%,16,19,5,3,4,0,0,2,0,0,1,0,0,0,,0,0,175
+Y60,Midlands Commissioning Region,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,"1,583",453,113,28.60%,211,263,262,183,135,76,71,74,50,37,39,33,36,113,,616,142,"1,622"
+Y60,Midlands Commissioning Region,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,876,2,0,0.20%,323,282,157,62,40,10,0,0,1,1,0,0,0,0,,176,0,"1,924"
+Y60,Midlands Commissioning Region,RL4,The Royal Wolverhampton NHS Trust,"10,143",438,158,4.30%,"2,806","2,281","1,658","1,339","1,172",449,92,39,44,26,38,17,24,158,,"1,259","2,897","10,452"
+Y60,Midlands Commissioning Region,RXW,The Shrewsbury and Telford Hospital NHS Trust,"17,394","7,089","2,519",40.80%,"2,105","2,350","1,961","1,672","1,249",968,978,740,746,630,503,501,472,"2,519",,"1,371","3,493","15,696"
+Y60,Midlands Commissioning Region,NT441,Three Shires Hospital,177,13,2,7.30%,67,42,25,18,6,6,1,4,0,2,3,0,1,2,,0,0,164
+Y60,Midlands Commissioning Region,RWD,United Lincolnshire Hospitals NHS Trust,"18,419","4,487","1,436",24.40%,"3,688","3,192","2,520","2,038","1,551",943,804,621,572,420,297,185,152,"1,436",,"1,596","3,242","19,492"
+Y60,Midlands Commissioning Region,RRK,University Hospitals Birmingham NHS Foundation Trust,"26,645","6,064","1,864",22.80%,"5,887","4,650","3,618","2,946","2,152","1,328","1,147",857,632,452,420,361,331,"1,864",,"8,222","18,508","27,013"
+Y60,Midlands Commissioning Region,RKB,University Hospitals Coventry and Warwickshire NHS Trust,"16,357","2,561",771,15.70%,"3,617","2,997","2,703","1,981","1,400","1,098",776,346,199,152,124,113,80,771,,"2,074","5,431","12,679"
+Y60,Midlands Commissioning Region,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,"21,795","5,310","1,288",24.40%,"4,799","3,347","2,834","2,560","1,733","1,212","1,091",847,749,469,379,324,163,"1,288",,"1,774","5,138","20,533"
+Y60,Midlands Commissioning Region,RWE,University Hospitals of Leicester NHS Trust,"26,452","5,497","1,789",20.80%,"6,136","4,213","3,481","3,156","2,570","1,399",938,738,652,461,331,332,256,"1,789",,"2,275","9,654","19,556"
+Y60,Midlands Commissioning Region,RJE,University Hospitals of North Midlands NHS Trust,"27,065","12,040","5,018",44.50%,"5,306","2,871","2,254","1,941","1,620","1,033","1,168","1,091","1,030","1,007",900,921,905,"5,018",,"4,470","8,755","19,761"
+Y60,Midlands Commissioning Region,RBK,Walsall Healthcare NHS Trust,"6,254",253,25,4.00%,"1,899","1,318","1,174",787,508,315,74,56,42,22,11,12,11,25,,507,"3,108","7,172"
+Y60,Midlands Commissioning Region,NVC21,West Midlands Hospital,44,20,2,45.50%,2,7,5,5,2,3,3,5,4,5,0,0,1,2,,0,0,256
+Y60,Midlands Commissioning Region,NVC23,Woodland Hospital,13,2,0,15.40%,4,1,1,1,0,4,0,0,1,0,0,1,0,0,,0,0,243
+Y60,Midlands Commissioning Region,NVC40,Woodthorpe Hospital,114,33,8,28.90%,27,21,11,11,9,2,5,4,4,7,1,2,2,8,,0,0,187
+Y60,Midlands Commissioning Region,RWP,Worcestershire Acute Hospitals NHS Trust,"12,034","3,512","1,310",29.20%,"2,517","1,971","1,401","1,233",749,651,489,413,390,359,274,186,91,"1,310",,"2,160","4,804","14,844"
+Y60,Midlands Commissioning Region,RLQ,Wye Valley NHS Trust,"4,950","1,055",229,21.30%,"1,115",917,622,572,335,334,234,224,125,93,59,55,36,229,,731,"2,140","4,825"
+Y61,East of England Commissioning Region,NT933,Alliance Medical MRI Service - Essex,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,568
+Y61,East of England Commissioning Region,RC9,Bedfordshire Hospitals NHS Foundation Trust,"20,500","8,769","4,919",42.80%,"3,397","2,681","1,953","1,576","1,199",925,901,819,498,401,373,400,458,"4,919",,"1,867","4,657","17,360"
+Y61,East of England Commissioning Region,NVC31,Blakelands Hospital,217,80,14,36.90%,12,34,30,22,26,13,11,22,12,5,3,6,7,14,,8,0,135
+Y61,East of England Commissioning Region,RGT,Cambridge University Hospitals NHS Foundation Trust,"11,209","3,820","2,216",34.10%,"2,321","1,893","1,235",869,650,421,283,247,275,201,190,199,209,"2,216",,"4,746","5,464","11,948"
+Y61,East of England Commissioning Region,RYV,Cambridgeshire Community Services NHS Trust,"2,094","1,705","1,296",81.40%,45,95,79,78,54,38,53,45,43,54,67,64,83,"1,296",,0,0,415
+Y61,East of England Commissioning Region,NEM13,Chartwell Private Hospital,217,0,0,0.00%,0,0,57,62,43,55,0,0,0,0,0,0,0,0,,0,0,217
+Y61,East of England Commissioning Region,RWH,East and North Hertfordshire NHS Trust,"25,309","14,948","9,134",59.10%,"2,838","1,930","1,663","1,577","1,350","1,003","1,067","1,221","1,005",726,783,540,472,"9,134",,0,"3,777","12,749"
+Y61,East of England Commissioning Region,RDE,East Suffolk and North Essex NHS Foundation Trust,"13,303","2,575",733,19.40%,"2,851","2,448","1,897","1,759","1,066",707,371,321,277,260,234,214,165,733,,"1,737","4,807","20,914"
+Y61,East of England Commissioning Region,AWA,Eastwood Endoscopy Centre,300,3,0,1.00%,140,77,41,25,9,5,0,1,2,0,0,0,0,0,,82,0,563
+Y61,East of England Commissioning Region,NUC,Essexultrasound & Medical Services Ltd,"4,760",0,0,0.00%,583,515,601,"1,369","1,632",60,0,0,0,0,0,0,0,0,,"4,760",0,0
+Y61,East of England Commissioning Region,NVC06,Fitzwilliam Hospital,120,41,5,34.20%,15,21,13,14,10,6,7,4,6,8,4,2,5,5,,62,0,537
+Y61,East of England Commissioning Region,RY4,Hertfordshire Community NHS Trust,"1,267","1,110",920,87.60%,47,29,27,28,12,14,28,31,26,20,24,26,35,920,,0,0,229
+Y61,East of England Commissioning Region,RGP,James Paget University Hospitals NHS Foundation Trust,"6,335","1,871",149,29.50%,"1,132","1,127",746,627,503,329,413,367,253,234,192,168,95,149,,648,936,"7,731"
+Y61,East of England Commissioning Region,NBI,Lakeside Medical Diagnostics,"1,376",0,0,0.00%,0,365,0,"1,011",0,0,0,0,0,0,0,0,0,0,,71,872,433
+Y61,East of England Commissioning Region,NT423,Manor Hospital,7,0,0,0.00%,1,2,4,0,0,0,0,0,0,0,0,0,0,0,,0,0,0
+Y61,East of England Commissioning Region,RAJ,Mid and South Essex NHS Foundation Trust,"23,189","7,538","3,556",32.50%,"5,902","3,211","2,574","1,657","1,350",957,700,709,712,572,449,419,421,"3,556",,"1,486","15,189","22,739"
+Y61,East of England Commissioning Region,RD8,Milton Keynes University Hospital NHS Foundation Trust,"13,693","6,378","2,354",46.60%,"1,769","1,592","1,441","1,112",803,598,748,668,609,597,575,456,371,"2,354",,"1,381","2,565","3,290"
+Y61,East of England Commissioning Region,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,"16,090","5,976","2,959",37.10%,"3,681","2,046","1,628","1,234",913,612,509,488,484,345,353,456,382,"2,959",,"2,497","6,903","12,303"
+Y61,East of England Commissioning Region,RGN,North West Anglia NHS Foundation Trust,"14,798","5,264","1,412",35.60%,"2,395","2,008","1,803","1,369","1,162",797,887,618,570,530,440,480,327,"1,412",,"1,799","6,147","10,892"
+Y61,East of England Commissioning Region,NT204,"Nuffield Health, Brentwood Hospital",39,0,0,0.00%,19,14,3,0,1,2,0,0,0,0,0,0,0,0,,0,0,92
+Y61,East of England Commissioning Region,NT209,"Nuffield Health, Cambridge Hospital",9,2,0,22.20%,4,2,0,1,0,0,1,0,0,0,1,0,0,0,,25,0,0
+Y61,East of England Commissioning Region,NVC13,Oaks Hospital,16,1,0,6.30%,3,4,4,2,1,1,0,0,1,0,0,0,0,0,,0,0,24
+Y61,East of England Commissioning Region,NVC15,Pinehill Hospital,78,23,2,29.50%,7,13,8,15,4,8,5,6,1,5,2,1,1,2,,0,0,101
+Y61,East of England Commissioning Region,NQA,Provide,127,12,0,9.40%,27,23,24,12,18,11,8,2,1,1,0,0,0,0,,0,0,174
+Y61,East of England Commissioning Region,NVC19,Rivers Hospital,200,30,4,15.00%,38,45,18,30,21,18,5,3,7,3,4,1,3,4,,384,0,298
+Y61,East of England Commissioning Region,RGM,Royal Papworth Hospital NHS Foundation Trust,"1,593",78,0,4.90%,733,181,182,182,127,110,18,28,13,18,1,0,0,0,,743,0,"1,391"
+Y61,East of England Commissioning Region,NT434,Saxon Clinic,19,1,0,5.30%,11,0,2,4,1,0,0,1,0,0,0,0,0,0,,0,0,90
+Y61,East of England Commissioning Region,NPG19,Spamedica Bedford,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,34
+Y61,East of England Commissioning Region,NPG16,Spamedica Chelmsford,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,42
+Y61,East of England Commissioning Region,J2H6H,Spamedica Colchester,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,16
+Y61,East of England Commissioning Region,B9J4U,Spamedica Peterborough,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,10
+Y61,East of England Commissioning Region,Q1W6P,Spamedica Watford,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,12
+Y61,East of England Commissioning Region,NT315,Spire Bushey Hospital,38,1,0,2.60%,14,13,3,6,1,0,0,1,0,0,0,0,0,0,,0,0,81
+Y61,East of England Commissioning Region,NT317,Spire Cambridge Lea Hospital,11,4,1,36.40%,6,1,0,0,0,0,0,1,0,2,0,0,0,1,,0,0,21
+Y61,East of England Commissioning Region,NT316,Spire Harpenden Hospital,45,1,0,2.20%,16,12,8,1,4,3,0,0,0,0,1,0,0,0,,0,0,105
+Y61,East of England Commissioning Region,NT319,Spire Hartswood Hospital,53,1,0,1.90%,15,21,11,3,1,1,0,0,1,0,0,0,0,0,,0,0,121
+Y61,East of England Commissioning Region,NT318,Spire Norwich Hospital,4,2,2,50.00%,0,0,1,1,0,0,0,0,0,0,0,0,0,2,,0,0,0
+Y61,East of England Commissioning Region,NT313,Spire Wellesley Hospital,63,9,2,14.30%,25,8,8,4,2,7,3,0,0,0,0,2,2,2,,0,0,154
+Y61,East of England Commissioning Region,NVC18,Springfield Hospital,41,15,2,36.60%,1,4,4,7,5,5,3,0,3,3,0,1,3,2,,0,0,441
+Y61,East of England Commissioning Region,NT446,St Edmunds Hospital,8,0,0,0.00%,2,3,0,2,1,0,0,0,0,0,0,0,0,0,,0,0,9
+Y61,East of England Commissioning Region,NDL01,Suffolk GP Federation,910,194,10,21.30%,37,50,16,248,211,154,89,42,31,11,8,1,2,10,,0,0,965
+Y61,East of England Commissioning Region,RQW,The Princess Alexandra Hospital NHS Trust,"8,892","2,821",943,31.70%,"1,759","1,256","1,166",799,662,429,379,357,323,279,210,197,133,943,,"1,451","1,888","7,452"
+Y61,East of England Commissioning Region,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust","7,081","2,655",594,37.50%,"1,156",861,787,702,505,415,479,394,381,262,242,147,156,594,,"1,036","2,619","5,009"
+Y61,East of England Commissioning Region,RWG,West Hertfordshire Teaching Hospitals NHS Trust,"7,985",640,54,8.00%,"2,223","1,824","1,335",982,625,356,241,136,87,59,26,20,17,54,,239,"2,024","9,682"
+Y61,East of England Commissioning Region,RGR,West Suffolk NHS Foundation Trust,"8,636","3,408",616,39.50%,"1,173","1,161",960,830,630,474,591,556,422,374,309,285,255,616,,69,"2,228","5,737"
+Y62,North West Commissioning Region,RBS,Alder Hey Children's NHS Foundation Trust,604,90,55,14.90%,88,132,141,78,47,28,11,1,6,2,7,4,4,55,,"1,130",142,466
+Y62,North West Commissioning Region,NT401,Alexandra Hospital,95,2,0,2.10%,31,19,15,7,9,12,2,0,0,0,0,0,0,0,,0,0,145
+Y62,North West Commissioning Region,NRP,Beacon Medical Services Group Limited,296,0,0,0.00%,234,48,7,6,1,0,0,0,0,0,0,0,0,0,,109,0,"3,086"
+Y62,North West Commissioning Region,NT403,Beardwood Hospital,241,12,3,5.00%,68,69,46,26,11,9,7,1,0,0,1,0,0,3,,0,0,446
+Y62,North West Commissioning Region,NT404,Beaumont Hospital,226,10,3,4.40%,96,50,18,16,6,30,2,1,1,2,1,0,0,3,,0,0,356
+Y62,North West Commissioning Region,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,"3,878",245,52,6.30%,"1,502",802,521,388,273,147,92,45,22,6,8,12,8,52,,"1,629","1,243","10,438"
+Y62,North West Commissioning Region,RMC,Bolton NHS Foundation Trust,"3,441",445,80,12.90%,"1,033",737,403,349,278,196,94,65,48,45,39,46,28,80,,811,"2,475","5,667"
+Y62,North West Commissioning Region,RY2,Bridgewater Community Healthcare NHS Foundation Trust,227,98,0,43.20%,51,35,23,3,15,2,12,18,9,7,0,9,43,0,,246,14,163
+Y62,North West Commissioning Region,A4M8P,Buckshaw Hospital,455,163,11,35.80%,14,53,29,88,49,59,52,41,26,14,3,9,7,11,,7,0,585
+Y62,North West Commissioning Region,AAV,Community Health and Eyecare Limited,"1,028",116,6,11.30%,290,123,123,119,165,92,23,48,16,8,7,5,3,6,,0,0,577
+Y62,North West Commissioning Region,RJR,Countess of Chester Hospital NHS Foundation Trust,"5,822",710,112,12.20%,"1,633","1,178",971,704,437,189,132,126,110,75,58,57,40,112,,505,"2,642","6,938"
+Y62,North West Commissioning Region,DKE,Curx Health Limited,29,0,0,0.00%,7,12,6,4,0,0,0,0,0,0,0,0,0,0,,"1,214",0,0
+Y62,North West Commissioning Region,NEM,Diagnostic Healthcare Ltd,"1,695",0,0,0.00%,119,239,355,411,337,234,0,0,0,0,0,0,0,0,,0,0,"6,724"
+Y62,North West Commissioning Region,RJN,East Cheshire NHS Trust,"3,099",329,54,10.60%,896,782,397,370,231,94,79,59,39,36,17,31,14,54,,474,3,"7,227"
+Y62,North West Commissioning Region,RXR,East Lancashire Hospitals NHS Trust,"14,124","2,912","1,047",20.60%,"3,877","2,715","1,898","1,339",909,474,287,301,323,305,221,228,200,"1,047",,"1,216","1,934","15,722"
+Y62,North West Commissioning Region,M9U8M,Endocare Diagnostics Ltd,49,0,0,0.00%,34,8,3,2,2,0,0,0,0,0,0,0,0,0,,0,0,125
+Y62,North West Commissioning Region,NVC05,Euxton Hall Hospital,66,3,0,4.50%,9,33,18,1,2,0,1,2,0,0,0,0,0,0,,1,0,82
+Y62,North West Commissioning Region,NVG01,Fairfield Hospital,141,5,0,3.50%,45,50,25,8,7,1,3,1,1,0,0,0,0,0,,0,0,175
+Y62,North West Commissioning Region,NVC07,Fulwood Hall Hospital,46,4,1,8.70%,5,23,9,1,2,2,0,1,1,0,0,0,1,1,,42,0,181
+Y62,North West Commissioning Region,DG701,Harmonic Medical Sonography Limited,779,0,0,0.00%,488,240,46,4,1,0,0,0,0,0,0,0,0,0,,779,0,0
+Y62,North West Commissioning Region,NRL,Heart Networks,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,295,0,0
+Y62,North West Commissioning Region,NT420,Highfield Hospital,59,0,0,0.00%,27,17,4,7,4,0,0,0,0,0,0,0,0,0,,0,0,249
+Y62,North West Commissioning Region,RW5,Lancashire & South Cumbria NHS Foundation Trust,343,75,17,21.90%,62,55,56,43,24,28,19,28,3,2,1,1,4,17,,0,0,164
+Y62,North West Commissioning Region,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,"20,714","10,513","6,127",50.80%,"2,207","2,167","1,931","1,731","1,329",836,791,695,622,601,443,676,558,"6,127",,835,"4,022","11,159"
+Y62,North West Commissioning Region,D6H2T,"Lancaster House Consulting, Community Healthcare & Diagnostics",74,20,0,27.00%,3,6,11,23,8,3,5,15,0,0,0,0,0,0,,45,0,29
+Y62,North West Commissioning Region,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,"2,738",429,29,15.70%,585,403,486,341,283,211,103,57,62,69,38,32,39,29,,367,239,"2,030"
+Y62,North West Commissioning Region,REM,Liverpool University Hospitals NHS Foundation Trust,"13,136",683,11,5.20%,"4,173","3,019","2,244","1,696",889,432,221,163,141,82,30,21,14,11,,"2,757","6,692","13,031"
+Y62,North West Commissioning Region,REP,Liverpool Women's NHS Foundation Trust,588,38,6,6.50%,182,140,127,43,30,28,14,3,6,5,2,1,1,6,,191,438,"1,277"
+Y62,North West Commissioning Region,NN5,Manchester Surgical Services Ltd,44,0,0,0.00%,15,1,10,7,7,4,0,0,0,0,0,0,0,0,,0,0,66
+Y62,North West Commissioning Region,R0A,Manchester University NHS Foundation Trust,"27,214","6,022","3,084",22.10%,"6,225","4,596","3,871","3,144","2,200","1,156",800,568,503,311,305,256,195,"3,084",,"3,278","7,921","26,006"
+Y62,North West Commissioning Region,RBN,Mersey and West Lancashire Teaching Hospitals NHS Trust,"10,812",344,42,3.20%,"3,555","3,020","1,906","1,096",596,295,126,63,48,21,15,11,18,42,,"2,396","3,490","19,369"
+Y62,North West Commissioning Region,RBT,Mid Cheshire Hospitals NHS Foundation Trust,"7,009",376,60,5.40%,"2,190","1,687","1,147",779,557,273,151,44,40,38,17,13,13,60,,837,"2,379","7,497"
+Y62,North West Commissioning Region,RM3,Northern Care Alliance NHS Foundation Trust,"19,000","2,655",495,14.00%,"4,476","3,935","3,187","2,451","1,369",927,585,416,312,308,241,178,120,495,,"1,797","4,295","25,255"
+Y62,North West Commissioning Region,NT210,"Nuffield Health, The Grosvenor Hospital, Chester",14,0,0,0.00%,6,7,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,44
+Y62,North West Commissioning Region,NVC12,Oaklands Hospital,"1,171",310,40,26.50%,220,175,199,117,97,53,133,100,6,6,16,5,4,40,,14,0,939
+Y62,North West Commissioning Region,DXV,Omnes Healthcare Ltd,"1,782","1,170",707,65.70%,0,132,134,109,110,127,63,89,82,48,82,64,35,707,,412,0,0
+Y62,North West Commissioning Region,NV6,PDS Medical Ltd,292,0,0,0.00%,109,79,52,35,15,2,0,0,0,0,0,0,0,0,,"1,497",0,0
+Y62,North West Commissioning Region,NVC16,Renacres Hospital,263,61,9,23.20%,25,30,52,36,26,33,11,10,14,5,5,4,3,9,,1,0,360
+Y62,North West Commissioning Region,C3Y0A,Spamedica Blackpool,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,3
+Y62,North West Commissioning Region,NPG08,Spamedica Bolton,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,13
+Y62,North West Commissioning Region,V4U1Y,Spamedica Chester,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,4
+Y62,North West Commissioning Region,Z5J5V,Spamedica Haydock,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,14
+Y62,North West Commissioning Region,R1G7E,Spamedica Kendal,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,19
+Y62,North West Commissioning Region,NPG06,Spamedica Liverpool,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,10
+Y62,North West Commissioning Region,NPG01,Spamedica Manchester,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,1
+Y62,North West Commissioning Region,O1P6X,Spamedica Oldham,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,21
+Y62,North West Commissioning Region,NPG17,Spamedica Preston,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,14
+Y62,North West Commissioning Region,NPG13,Spamedica Skelmersdale,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,2
+Y62,North West Commissioning Region,NPG14,Spamedica Widnes,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,8
+Y62,North West Commissioning Region,NPG02,Spamedica Wirral,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,14
+Y62,North West Commissioning Region,NT324,Spire Cheshire Hospital,72,10,0,13.90%,23,14,9,8,7,1,3,4,2,0,0,1,0,0,,0,0,155
+Y62,North West Commissioning Region,NT347,Spire Fylde Coast Hospital,463,13,2,2.80%,229,165,19,13,21,3,4,2,0,3,0,1,1,2,,0,0,472
+Y62,North West Commissioning Region,NT337,Spire Liverpool Hospital,420,42,0,10.00%,100,70,65,77,35,31,20,20,0,1,0,0,1,0,,0,0,366
+Y62,North West Commissioning Region,NT327,Spire Manchester Hospital,24,3,0,12.50%,12,1,7,0,1,0,2,0,0,1,0,0,0,0,,0,0,76
+Y62,North West Commissioning Region,NT325,Spire Murrayfield Hospital,34,6,3,17.60%,10,5,3,7,3,0,1,1,0,0,0,1,0,3,,0,0,75
+Y62,North West Commissioning Region,NT339,Spire Regency Hospital,229,16,1,7.00%,103,58,28,11,11,2,4,1,0,2,5,3,0,1,,0,0,491
+Y62,North West Commissioning Region,RWJ,Stockport NHS Foundation Trust,"6,805","1,176",523,17.30%,"1,723","1,414","1,309",604,383,196,187,153,82,66,88,48,29,523,,"1,004","4,881","7,211"
+Y62,North West Commissioning Region,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,"4,023",288,162,7.20%,"1,207",780,657,545,351,195,21,25,20,18,14,14,14,162,,868,770,"6,380"
+Y62,North West Commissioning Region,RBV,The Christie NHS Foundation Trust,"1,031",12,0,1.20%,424,245,159,126,47,18,7,3,2,0,0,0,0,0,,"2,893",355,876
+Y62,North West Commissioning Region,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,18,0,0,0.00%,12,6,0,0,0,0,0,0,0,0,0,0,0,0,,"2,154",127,"1,210"
+Y62,North West Commissioning Region,NPF01,The Industrial Diagnostics Company,14,0,0,0.00%,7,6,1,0,0,0,0,0,0,0,0,0,0,0,,0,0,49
+Y62,North West Commissioning Region,NT449,The Lancaster Private Hospital,1,0,0,0.00%,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,7
+Y62,North West Commissioning Region,RET,The Walton Centre NHS Foundation Trust,"1,044",13,4,1.20%,484,288,186,56,15,2,0,3,1,0,1,2,2,4,,391,287,"1,247"
+Y62,North West Commissioning Region,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,"7,767",572,40,7.40%,"2,129","1,576","1,477","1,038",681,294,136,108,86,96,59,39,8,40,,"1,091","3,918","8,134"
+Y62,North West Commissioning Region,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,"8,769","1,514",265,17.30%,"2,221","1,697","1,348","1,078",649,262,257,231,171,184,162,141,103,265,,876,"2,493","8,005"
+Y62,North West Commissioning Region,RY7,Wirral Community Health and Care NHS Foundation Trust,241,0,0,0.00%,102,63,50,19,6,1,0,0,0,0,0,0,0,0,,0,0,282
+Y62,North West Commissioning Region,RBL,Wirral University Teaching Hospital NHS Foundation Trust,"8,203",333,16,4.10%,"2,525","1,778","1,459","1,069",755,284,143,83,54,26,8,2,1,16,,96,7,"12,028"
+Y62,North West Commissioning Region,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust","9,038","1,964",169,21.70%,"1,759","1,674","1,182","1,071",793,595,538,494,381,185,126,47,24,169,,"1,270","3,485","9,577"
+Y63,North East and Yorkshire Commissioning Region,AAF,360 Care Ltd,475,47,0,9.90%,183,127,57,27,19,15,9,11,12,14,1,0,0,0,,0,0,"1,163"
+Y63,North East and Yorkshire Commissioning Region,RCF,Airedale NHS Foundation Trust,"3,820",91,23,2.40%,"1,281",885,656,495,306,106,33,9,6,8,6,2,4,23,,711,"1,100","4,499"
+Y63,North East and Yorkshire Commissioning Region,RFF,Barnsley Hospital NHS Foundation Trust,"3,514",84,8,2.40%,483,575,588,993,644,147,33,29,7,4,1,1,1,8,,858,894,"7,223"
+Y63,North East and Yorkshire Commissioning Region,RAE,Bradford Teaching Hospitals NHS Foundation Trust,"7,870","1,395",170,17.70%,"2,111","1,428","1,127",862,596,351,332,291,271,138,101,58,34,170,,662,123,"11,623"
+Y63,North East and Yorkshire Commissioning Region,RWY,Calderdale and Huddersfield NHS Foundation Trust,"10,261",501,63,4.90%,"2,750","2,022","1,784","1,602","1,131",471,182,155,53,22,14,7,5,63,,"1,015","3,971","9,915"
+Y63,North East and Yorkshire Commissioning Region,NL3,Care Plus Group,213,74,53,34.70%,33,35,28,25,8,10,5,3,4,3,2,1,3,53,,0,0,99
+Y63,North East and Yorkshire Commissioning Region,NVC28,Clifton Park Hospital,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,2,0,15
+Y63,North East and Yorkshire Commissioning Region,NVC29,Cobalt Hospital,193,26,4,13.50%,37,37,41,15,17,20,8,8,2,1,0,2,1,4,,0,0,177
+Y63,North East and Yorkshire Commissioning Region,RXP,County Durham and Darlington NHS Foundation Trust,"13,244","1,018",30,7.70%,"3,106","2,853","2,164","2,010","1,358",735,445,218,186,77,35,17,10,30,,"1,588","7,351","11,007"
+Y63,North East and Yorkshire Commissioning Region,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,"14,005","3,650","1,779",26.10%,"2,854","2,215","1,869","1,368","1,244",805,845,465,175,107,146,97,36,"1,779",,"2,402","5,995","10,287"
+Y63,North East and Yorkshire Commissioning Region,NT447,Duchy Hospital,23,0,0,0.00%,4,14,5,0,0,0,0,0,0,0,0,0,0,0,,0,0,25
+Y63,North East and Yorkshire Commissioning Region,RR7,Gateshead Health NHS Foundation Trust,"6,246",847,91,13.60%,"1,482","1,089",960,895,666,307,238,167,152,84,50,38,27,91,,701,"1,093","7,019"
+Y63,North East and Yorkshire Commissioning Region,A84031,Greystoke Surgery,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,63,0,0
+Y63,North East and Yorkshire Commissioning Region,RCD,Harrogate and District NHS Foundation Trust,"4,992","1,406",348,28.20%,"1,007",814,668,540,358,199,268,201,170,131,111,128,49,348,,585,841,"6,355"
+Y63,North East and Yorkshire Commissioning Region,RWA,Hull University Teaching Hospitals NHS Trust,"11,975","2,814",664,23.50%,"3,114","2,364","1,645","1,055",532,451,373,410,370,290,235,266,206,664,,"1,796","6,311","8,955"
+Y63,North East and Yorkshire Commissioning Region,W1I1O,Illumina Diagnostics Ltd,584,9,4,1.50%,284,192,86,9,1,3,0,1,1,0,0,3,0,4,,0,0,"1,932"
+Y63,North East and Yorkshire Commissioning Region,RY6,Leeds Community Healthcare NHS Trust,915,668,427,73.00%,56,51,49,38,34,19,35,46,34,34,32,31,29,427,,132,0,129
+Y63,North East and Yorkshire Commissioning Region,RR8,Leeds Teaching Hospitals NHS Trust,"16,555","1,044",185,6.30%,"3,912","3,478","2,887","2,284","1,725","1,225",242,215,116,97,81,71,37,185,,"3,592","5,977","14,499"
+Y63,North East and Yorkshire Commissioning Region,B86059,Meanwood Health Centre,179,4,1,2.20%,117,18,17,14,7,2,0,1,2,0,0,0,0,1,,91,0,88
+Y63,North East and Yorkshire Commissioning Region,RXF,Mid Yorkshire Teaching NHS Trust,"10,246",104,42,1.00%,"3,047","2,412","1,866","1,485",952,380,24,19,12,1,3,1,2,42,,"1,364","5,436","16,265"
+Y63,North East and Yorkshire Commissioning Region,NX2,Minor Ops Ltd,13,0,0,0.00%,0,6,3,2,2,0,0,0,0,0,0,0,0,0,,0,0,44
+Y63,North East and Yorkshire Commissioning Region,RNN,North Cumbria Integrated Care NHS Foundation Trust,"8,029","1,209",293,15.10%,"2,419","1,892","1,027",746,475,261,150,163,146,139,124,103,91,293,,"1,741","4,671","8,283"
+Y63,North East and Yorkshire Commissioning Region,RVW,North Tees and Hartlepool NHS Foundation Trust,"8,117","1,811",159,22.30%,"1,450","1,471","1,124","1,000",777,484,460,360,284,216,202,102,28,159,,178,"3,290","9,465"
+Y63,North East and Yorkshire Commissioning Region,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,"13,738","2,318",487,16.90%,"3,626","2,413","2,029","1,398","1,035",919,443,331,323,241,180,188,125,487,,"2,363","6,879","14,879"
+Y63,North East and Yorkshire Commissioning Region,RTF,Northumbria Healthcare NHS Foundation Trust,"9,900",285,69,2.90%,"3,049","2,411","1,691","1,173",804,487,58,35,38,25,24,21,15,69,,"1,463","4,720","15,778"
+Y63,North East and Yorkshire Commissioning Region,NQH,Novus Health Ltd,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,122,14,234
+Y63,North East and Yorkshire Commissioning Region,NT225,"Nuffield Health, Leeds Hospital",56,1,0,1.80%,21,11,15,6,2,0,0,1,0,0,0,0,0,0,,0,0,91
+Y63,North East and Yorkshire Commissioning Region,NT229,"Nuffield Health, Newcastle Upon Tyne Hospital",48,0,0,0.00%,11,32,3,0,2,0,0,0,0,0,0,0,0,0,,0,0,42
+Y63,North East and Yorkshire Commissioning Region,NT237,"Nuffield Health, Tees Hospital",57,7,0,12.30%,16,11,9,8,5,1,1,6,0,0,0,0,0,0,,0,0,80
+Y63,North East and Yorkshire Commissioning Region,NT245,"Nuffield Health, York Hospital",156,14,11,9.00%,69,36,21,9,2,5,0,2,0,0,0,1,0,11,,0,0,80
+Y63,North East and Yorkshire Commissioning Region,NVC14,Park Hill Hospital,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,1
+Y63,North East and Yorkshire Commissioning Region,NEQ,Phoenix Health Solutions Limited HQ,232,20,1,8.60%,58,52,46,37,16,3,9,4,1,2,1,1,1,1,,211,0,0
+Y63,North East and Yorkshire Commissioning Region,NEY,Pioneer Healthcare Limited,322,70,19,21.70%,90,36,40,44,37,5,21,11,4,2,7,3,3,19,,0,0,56
+Y63,North East and Yorkshire Commissioning Region,RCU,Sheffield Children's NHS Foundation Trust,"1,266",362,161,28.60%,236,227,197,127,70,47,42,38,30,35,27,11,18,161,,539,"1,201",611
+Y63,North East and Yorkshire Commissioning Region,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,"22,145","9,235","2,356",41.70%,"3,086","2,629","2,435","2,031","1,595","1,134","1,252","1,142","1,049",919,921,842,754,"2,356",,"2,005","3,718","15,955"
+Y63,North East and Yorkshire Commissioning Region,RTR,South Tees Hospitals NHS Foundation Trust,"9,280","1,397",390,15.10%,"2,989","2,186","1,221",793,452,242,246,209,119,138,138,73,84,390,,"1,244","3,722","13,483"
+Y63,North East and Yorkshire Commissioning Region,R0B,South Tyneside and Sunderland NHS Foundation Trust,"9,486","1,559",226,16.40%,"2,879","1,759","1,170",970,740,409,340,240,222,228,147,108,48,226,,"1,451","2,520","15,230"
+Y63,North East and Yorkshire Commissioning Region,RXG,South West Yorkshire Partnership NHS Foundation Trust,245,142,20,58.00%,22,20,18,23,9,11,18,17,23,8,13,22,21,20,,78,0,44
+Y63,North East and Yorkshire Commissioning Region,I2C7H,Spamedica Bradford,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,30
+Y63,North East and Yorkshire Commissioning Region,E1U4T,Spamedica Carlisle,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,20
+Y63,North East and Yorkshire Commissioning Region,T8V3L,Spamedica Doncaster,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,14
+Y63,North East and Yorkshire Commissioning Region,NPG07,Spamedica Eye Hospital (Wakefield),0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,39
+Y63,North East and Yorkshire Commissioning Region,Z9Z1G,Spamedica Gateshead,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,14
+Y63,North East and Yorkshire Commissioning Region,NPG18,Spamedica Hull,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,16
+Y63,North East and Yorkshire Commissioning Region,G5X2Q,Spamedica North Tyneside,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,2
+Y63,North East and Yorkshire Commissioning Region,NPG10,Spamedica Sheffield,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,29
+Y63,North East and Yorkshire Commissioning Region,NPG22,Spamedica Stockton-On-Tees,0,0,0,0.00%,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,8
+Y63,North East and Yorkshire Commissioning Region,NT348,Spire Elland Hospital,55,1,0,1.80%,20,18,8,2,4,2,0,0,0,0,0,1,0,0,,0,0,104
+Y63,North East and Yorkshire Commissioning Region,NT351,Spire Hull and East Riding Hospital,619,311,55,50.20%,76,76,58,26,33,39,46,48,68,54,2,16,22,55,,0,0,329
+Y63,North East and Yorkshire Commissioning Region,NT332,Spire Leeds Hospital,16,0,0,0.00%,7,4,3,2,0,0,0,0,0,0,0,0,0,0,,0,0,35
+Y63,North East and Yorkshire Commissioning Region,NT350,Spire Methley Park Hospital,88,11,2,12.50%,26,19,13,6,2,11,0,2,6,1,0,0,0,2,,0,0,91
+Y63,North East and Yorkshire Commissioning Region,NT333,Spire Washington Hospital,85,5,1,5.90%,46,23,8,2,0,1,2,0,0,2,0,0,0,1,,0,0,193
+Y63,North East and Yorkshire Commissioning Region,NVC0R,Tees Valley Hospital,129,15,3,11.60%,21,45,19,12,8,9,4,3,0,1,2,2,0,3,,2,0,428
+Y63,North East and Yorkshire Commissioning Region,AJ8,The Grange Medical Centre HQ,134,0,0,0.00%,50,42,20,16,4,2,0,0,0,0,0,0,0,0,,0,0,212
+Y63,North East and Yorkshire Commissioning Region,NT448,The Huddersfield Private Hospital,158,7,0,4.40%,46,43,30,18,10,4,0,4,1,1,1,0,0,0,,0,0,141
+Y63,North East and Yorkshire Commissioning Region,NID,The Living Care Group,"1,428",0,0,0.00%,"1,428",0,0,0,0,0,0,0,0,0,0,0,0,0,,"1,429",0,1
+Y63,North East and Yorkshire Commissioning Region,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,"15,991","5,869","3,093",36.70%,"3,607","2,108","1,645","1,220",860,682,609,504,396,441,300,286,240,"3,093",,432,"4,048","16,171"
+Y63,North East and Yorkshire Commissioning Region,RFR,The Rotherham NHS Foundation Trust,"4,677",22,13,0.50%,"1,505","1,071",730,582,468,299,7,2,0,0,0,0,0,13,,"1,159","2,738","6,058"
+Y63,North East and Yorkshire Commissioning Region,NVC20,The Yorkshire Clinic,312,76,5,24.40%,44,46,52,41,38,15,14,20,8,11,12,4,2,5,,8,0,787
+Y63,North East and Yorkshire Commissioning Region,NT440,Thornbury Hospital,124,0,0,0.00%,34,33,39,9,8,1,0,0,0,0,0,0,0,0,,0,0,227
+Y63,North East and Yorkshire Commissioning Region,NN4,Tyneside Surgical Services Ltd,45,0,0,0.00%,23,10,6,6,0,0,0,0,0,0,0,0,0,0,,0,0,71
+Y63,North East and Yorkshire Commissioning Region,AGA,Westcliffe Health Innovations Ltd,113,21,5,18.60%,16,19,33,7,8,9,10,1,1,0,1,1,2,5,,"1,013",0,113
+Y63,North East and Yorkshire Commissioning Region,NT457,Woodlands Hospital,80,7,0,8.80%,29,30,5,5,3,1,1,2,3,1,0,0,0,0,,0,0,375
+Y63,North East and Yorkshire Commissioning Region,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,"9,257","2,505","1,372",27.10%,"2,246","1,712","1,159",863,502,270,243,216,197,153,101,129,94,"1,372",,"2,325","5,814","11,389"
+Y63,North East and Yorkshire Commissioning Region,NKO,Yorkshire Health Solutions Ltd,683,0,0,0.00%,259,191,163,63,7,0,0,0,0,0,0,0,0,0,,0,0,"14,576"
