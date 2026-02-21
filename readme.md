@@ -165,7 +165,7 @@ Query: [diagnostics_6pus_weeks_breaches_analysis](/Scripts/3_diagnostics_6plus_w
 
 # Strategic Recommendations:
 1.	Target Elective Recovery Funds:
-    - Prioritize ENT, Gynaecology, Orthopaedics in North West and East of England
+    - Prioritise ENT, Gynaecology, Orthopaedics in North West and East of England
     - Consider pop-up elective surgical hubs or weekend clinics
 2.	Balance Emergency vs Elective Capacity:
     - Ensure urgent care improvements are not sustained at the long-term expense of chronic surgical waiters
